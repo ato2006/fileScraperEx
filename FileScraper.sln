@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileScraper", "FileScraper\FileScraper.csproj", "{E5DAC832-A41E-463D-9A47-B0AF5426B220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileScraper.Core", "FileScraper.Core\FileScraper.Core.csproj", "{42D5D4C0-3622-41A9-BDBB-FE6789CD1F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DAC832-A41E-463D-9A47-B0AF5426B220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DAC832-A41E-463D-9A47-B0AF5426B220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DAC832-A41E-463D-9A47-B0AF5426B220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DAC832-A41E-463D-9A47-B0AF5426B220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D5D4C0-3622-41A9-BDBB-FE6789CD1F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D5D4C0-3622-41A9-BDBB-FE6789CD1F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D5D4C0-3622-41A9-BDBB-FE6789CD1F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D5D4C0-3622-41A9-BDBB-FE6789CD1F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
