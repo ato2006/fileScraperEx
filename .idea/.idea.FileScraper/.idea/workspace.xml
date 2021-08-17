@@ -4,33 +4,7 @@
     <projectFile>FileScraper/FileScraper.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7e9ca2-95f6-4041-859f-2f040cc3006c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FileScraper/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FileScraper/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FileScraper/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FileScraper/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/FileScraper.Core.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/FileScraper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/FileScraperContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/FileScraperExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/FileScraperOptions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Logger/ConsoleLogger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Logger/FilteredLogger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Logger/ILogger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/OutputOptions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Stages/DownloadStage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Stages/IStage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Stages/LinkStage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.Core/Stages/ScraperStage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper/CommandLine/CommandLineParser.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper/CommandLine/CommandLineSwitch.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper/CommandLine/CommandLineSwitches.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper/CommandLine/CommandParseResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper/FileScraper.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileScraper/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="db7e9ca2-95f6-4041-859f-2f040cc3006c" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,8 +101,16 @@
       <workItem from="1629034666853" duration="4805000" />
       <workItem from="1629104389186" duration="8994000" />
       <workItem from="1629197388357" duration="8490000" />
-      <workItem from="1629235915168" duration="4298000" />
+      <workItem from="1629235915168" duration="4620000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1629240488340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629240488340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,5 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
